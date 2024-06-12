@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br><br>
 
 
 
